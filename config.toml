@@ -1,0 +1,17 @@
+
+
+
+# (Insert dynamic logic and content below as needed)
+
+# The theme is applied globally. Consider previewing your app to confirm the visual result matches your brand palette.
+[theme]
+primaryColor = "#F63366"
+
+secondaryBackgroundColor = "#f5f7fa"
+textColor = "#262730"
+font = "sans serif"
+base="light"
+
+# You've enabled hot reload with 'runOnSave = true'. If you're adding sidebar branding, make sure your Home.py includes the sidebar UI.
+[server]
+runOnSave = true
