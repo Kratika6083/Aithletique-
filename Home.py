@@ -1,3 +1,8 @@
+import sys
+import os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), 'components')))
+from webcam_feed import run_pose_detection
+
 import streamlit as st
 import os
 import random
