@@ -17,6 +17,14 @@ scikit-learn
 matplotlib
 streamlit
 pyttsx3
+gtts
+opencv-python
+playsound
+threading
+pickle
+edge_tts
+asyncio
+pydub
 vosk
 langdetect
 webrtcvad
